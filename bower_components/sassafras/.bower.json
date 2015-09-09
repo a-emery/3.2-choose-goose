@@ -1,0 +1,38 @@
+{
+  "name": "sassafras",
+  "homepage": "https://github.com/tylerreckart/sassafras",
+  "authors": [
+    "Tyler Reckart <tyler.reckart@gmail.com>"
+  ],
+  "description": "Take control of your stylesheets",
+  "main": "index.js",
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "SASS",
+    "SCSS",
+    "LESS",
+    "CSS",
+    "Compiler"
+  ],
+  "ignore": [
+    ".travis.yml",
+    "CONTRIBUTING.md",
+    "assets"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "sassafras": "*"
+  },
+  "_release": "1ef5885e65",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "1ef5885e6573747f87c56c9b3ef1dc5d0a1c491e"
+  },
+  "_source": "git://github.com/tylerreckart/sassafras.git",
+  "_target": "*",
+  "_originalSource": "sassafras",
+  "_direct": true
+}
